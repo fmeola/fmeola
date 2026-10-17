@@ -1,7 +1,7 @@
 #### 👋 Welcome to my GitHub
 
 #### Experience
-- 👨🏻‍🏫 Assistant Professor - ITBA
+- 👨🏻‍🏫 Associate Professor - ITBA
 - 👨🏻‍💻 Full-Stack Sr. Software Engineer
 
 #### Education
